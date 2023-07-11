@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
 <h3 align="center">A passionate Web Developer from IIT Guwahati</h3>
 
-- 🔭 I’m currently working on [Echo](https://github.com/Akshat2403/EchoApp)
-
 - 📫 How to reach me **akshat24981@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
